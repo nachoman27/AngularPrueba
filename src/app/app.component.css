@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #04041c  ;
+  background-image: url('../assets/images/foto1.jpg');
+  background-position: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+  
+
+

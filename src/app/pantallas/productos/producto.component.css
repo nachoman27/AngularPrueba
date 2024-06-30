@@ -1,0 +1,13 @@
+.product-image {
+    display: block; /* Para asegurar que la imagen se muestre como un bloque */
+    margin: 0 auto; /* Margen automático a los lados para centrar horizontalmente */
+    width: 100%; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto; /* Mantiene la proporción de la imagen */
+    max-width: 200px; /* Define el ancho máximo de la imagen */
+  }
+  .description-container {
+    min-height: 100px; /* Establece la altura mínima que deseas */
+  }
+  .custom-card {
+    margin-bottom: 20px; /* Puedes ajustar el valor según la separación deseada */
+  }
