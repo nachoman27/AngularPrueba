@@ -7,7 +7,18 @@
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
 }
+label {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #fffcfc;
+}
 
+input {
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #000000;
+  border-radius: 4px;
+}
 
 /*
 body {

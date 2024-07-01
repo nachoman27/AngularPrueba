@@ -35,7 +35,7 @@
                 <td>{{usuario.address.street}}</td>
                 <td>{{usuario.address.number}}</td>
                 <td>{{usuario.address.zipcode}}</td>
-                <td><button (click)="editUser(usuario)">Editar</button></td>
+                <td><button type="button" class="btn btn-light" (click)="editUser(usuario)">Editar</button></td>
               </tr>
             </tbody>
           </table>
@@ -71,8 +71,8 @@
           <input id="zipcode" [(ngModel)]="selectedUser!.address.zipcode" name="zipcode">
         </div>
   
-        <button type="submit">Guardar</button>
-        <button type="button" (click)="closeForm()">Cerrar</button>
+        <button class="btn btn-light" type="submit">Guardar</button>
+        <button type="button" class="btn btn-light"(click)="closeForm()">Cerrar</button>
       </form>
     </div>
   </div>
