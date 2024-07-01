@@ -10,7 +10,5 @@ export interface Usuario {
     number: number;
     zipcode: string; 
   }  
-
-  
-   }
+}
    

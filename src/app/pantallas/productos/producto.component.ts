@@ -32,6 +32,8 @@ export class ProductoComponent implements OnInit, OnDestroy {
       this.productosSubscription.unsubscribe();
     }
   }
+  
+
 }
 
 

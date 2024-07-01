@@ -11,3 +11,13 @@
   .custom-card {
     margin-bottom: 20px; /* Puedes ajustar el valor según la separación deseada */
   }
+  /*
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #04041c  ;
+    background-image: url('/assets/images/foto.jpg');
+    background-position: cover;
+    background-repeat: no-repeat;
+    position: relative;
+  }

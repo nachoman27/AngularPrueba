@@ -2,4 +2,13 @@
     background-color: #ff0000; /* Cambia #ff0000 por el color que desees */
     color: #1f2876; /* Color del texto en las celdas */
 }
-
+/*
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #04041c  ;
+    background-image: url('/assets/images/foto.jpg');
+    background-position: cover;
+    background-repeat: no-repeat;
+    position: relative;
+  }

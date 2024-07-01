@@ -4,7 +4,7 @@ import { RouterLink, RouterOutlet } from '@angular/router';
 import { ProductoService } from './shared/servicios/producto.service';
 import { ProductoComponent } from './pantallas/productos/producto.component';
 import { UsuarioService } from './shared/servicios/usuario.service';
-import { UsuarioComponent } from './pantallas/usuarios/usuario.component';
+import { UsuarioComponent } from './pantallas/usuarios/UsuarioComponent';
 import { NavbarComponent } from './shared/navbar/navbar.component';
 import { HomepageComponent } from './pantallas/homepage/homepage.component';
 @Component({
