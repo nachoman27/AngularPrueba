@@ -1,7 +1,14 @@
-.custom-color {
-    background-color: #ff0000; /* Cambia #ff0000 por el color que desees */
-    color: #1f2876; /* Color del texto en las celdas */
+
+.usuarios-content {
+  display: block;
+  min-height: 100vh; /* Full viewport height */
+  background-image: url('/assets/images/foto.jpg');
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
 }
+
+
 /*
 body {
     margin: 0;
